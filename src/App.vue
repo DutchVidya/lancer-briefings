@@ -147,9 +147,9 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
+        "headerTitle": "Blacklight Direct",
+        "headerSubtitle": "'Deeds in the Dark'",
+        "subheaderTitle": "Conflict Resolution",
         "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
       },
       "options":{
