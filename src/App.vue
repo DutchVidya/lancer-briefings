@@ -98,6 +98,15 @@ export default {
           "name": "Drawdown 5016u",
           "status": "start"
         },
+        "mission_slug": "002",
+      "current_md": "",
+      "events": "",
+      "missions": [
+        {
+          "slug": "001",
+          "name": "Collateral",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
