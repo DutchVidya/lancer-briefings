@@ -103,6 +103,11 @@ export default {
           "name": "Collateral",
           "status": "start"
         },
+        {
+          "slug": "003",
+          "name": "JUNO",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
