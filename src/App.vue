@@ -101,7 +101,7 @@ export default {
         {
           "slug": "002",
           "name": "Collateral",
-          "status": "start"
+          "status": "locked"
         },
       ],
       "pilots": [
