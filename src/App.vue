@@ -109,8 +109,8 @@ export default {
           "callsign": "Dispatch",
           "alias": "Lucy Beltayn",
           "code": "Player: Cozmicc",
-          "corpro": "IPS-N",
-          "frame": "Nelson",
+          "corpro": "GMS",
+          "frame": "Everest",
           "mech": "Suffolk"
         },
         {
