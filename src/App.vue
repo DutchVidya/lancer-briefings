@@ -160,7 +160,7 @@ export default {
         "headerTitle": "Blacklight Direct",
         "headerSubtitle": "'Deeds in the Dark'",
         "subheaderTitle": "Conflict Resolution",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Delta-Echo-Echo-Delta",
       },
       "options":{
         "eventsMarkdownPerMission": true
