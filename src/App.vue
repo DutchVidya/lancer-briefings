@@ -119,12 +119,12 @@ export default {
           "mech": "Suffolk"
         },
         {
-          "callsign": "TBA",
-          "alias": "TBA",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "callsign": "Event Horizon",
+          "alias": "Dalt Stirad",
+          "code": "Player: Dusty",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "TBA"
+          "mech": "Perfect Vacuum"
         },
         {
           "callsign": "TBA",
