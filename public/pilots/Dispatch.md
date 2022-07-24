@@ -19,6 +19,7 @@
 - 1: Where do you come from - A Union Agri World from a family of Farmers 
 - 2: Why are you here? - Originally joined up to rebel against her family and get away from her boring life on the farm. It wasn't long before Lucy became indoctrinated and became pro Union company girl
 - 3: Show me your Lancer's musical vibe, their theme tune - Retrowave 
+
 https://www.youtube.com/watch?v=Y8DekFFCE5c
 https://www.youtube.com/watch?v=SbTcmfEGrds
 
