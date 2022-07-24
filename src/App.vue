@@ -119,20 +119,20 @@ export default {
           "mech": "Radiant Flower Questions the Dead"
         },
         {
-          "callsign": "Event Horizon",
-          "alias": "Dalt Stirad",
-          "code": "Player: Dusty",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Perfect Vacuum"
-        },
-        {
           "callsign": "Ouroboros",
           "alias": "Nadija Kaemmerer-Abbas",
           "code": "Player: Starvolt",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "THRICE FOLDED, I HAVE GAZED UPON THE FRAMEWORK"
+        },
+        {
+          "callsign": "Event Horizon",
+          "alias": "Dalt Stirad",
+          "code": "Player: Dusty",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Perfect Vacuum"
         },
         {
           "callsign": "TBA",
