@@ -124,7 +124,7 @@ export default {
           "code": "Player: Starvolt",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "THRICE FOLDED, I HAVE GAZED UPON THE FRAMEWORK"
+          "mech": "THRICE FOLDED, I HAVE GAZED UPON THE FRAMEWORK OF REALITY ITSELF"
         },
         {
           "callsign": "Event Horizon",
