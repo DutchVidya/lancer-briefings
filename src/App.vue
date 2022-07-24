@@ -127,12 +127,12 @@ export default {
           "mech": "Perfect Vacuum"
         },
         {
-          "callsign": "TBA",
-          "alias": "TBA",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "callsign": "Ouroboros",
+          "alias": "Nadija Kaemmerer-Abbas",
+          "code": "Player: Starvolt",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "TBA"
+          "mech": "THRICE FOLDED, I HAVE GAZED UPON THE FRAMEWORK"
         },
         {
           "callsign": "TBA",
