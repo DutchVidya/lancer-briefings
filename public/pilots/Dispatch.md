@@ -1,4 +1,4 @@
-# Lucy Beltayn // "Dispatch"
+## Lucy Beltayn // "Dispatch"
 
 # Pilot Dossier
 - Born and raised on a Union Agri World
@@ -18,9 +18,8 @@
 
 - 1: Where do you come from - A Union Agri World from a family of Farmers 
 - 2: Why are you here? - Originally joined up to rebel against her family and get away from her boring life on the farm. It wasn't long before Lucy became indoctrinated and became pro Union company girl
-- 3: Show me your Lancer's musical vibe, their theme tune - Retrowave 
-
-- [Perturbator - "Humans Are Such Easy Prey" "Dangerous Days" Official] https://www.youtube.com/watch?v=Y8DekFFCE5c
-- [Kristine - The Deepest Blue (DANCE WITH THE DEAD remix)] https://www.youtube.com/watch?v=SbTcmfEGrds
+- 3: Show me your Lancer's musical vibe, their theme tune - Retrowave
+    - [Perturbator - "Humans Are Such Easy Prey" "Dangerous Days" Official] https://www.youtube.com/watch?v=Y8DekFFCE5c
+    - [Kristine - The Deepest Blue (DANCE WITH THE DEAD remix)] https://www.youtube.com/watch?v=SbTcmfEGrds
 
 - 4: Give me a phrase, a Lancer yearbook quote, a metaphor they like, something in that vein
