@@ -116,7 +116,7 @@ export default {
           "code": "Player: Cozmicc",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Suffolk"
+          "mech": "Radiant Flower Questions the Dead"
         },
         {
           "callsign": "Event Horizon",
