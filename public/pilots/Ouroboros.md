@@ -1,4 +1,4 @@
-## Nadija Kaemmerer-Abbas // Ouroboros
+## Nadija Kaemmerer-Abbas // "Ouroboros"
 
     folds = float('inf')  
       
