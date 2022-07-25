@@ -2,29 +2,29 @@
 ## Lucy Beltayn // "Dispatch"
   
 
-*COMPANION/CONCIERGE UNIT INITIALIZING*
+>>*COMPANION/CONCIERGE UNIT INITIALIZING*
 
-*GMS COMP/CON Unit Mk XI Rev 11.4.1c*
+>>*GMS COMP/CON Unit Mk XI Rev 11.4.1c*
 
-*5017.3.12 General Massive Systems // Please Operate Responsibly*
+>>*5017.3.12 General Massive Systems // Please Operate Responsibly*
 
-*Blacklight (R) BDOS (R) 8.0 (Build 113409)*
+>>*Blacklight (R) BDOS (R) 8.0 (Build 113409)*
 
-*Connecting to Pilot NET . . .*
+>>*Connecting to Pilot NET . . .*
 
-*Connected to Pilot NET. Please enter BDMC LC-CRED*
+>>*Connected to Pilot NET. Please enter BDMC LC-CRED*
 
-*USERNAME: Sovereign_553*
+>>*USERNAME: Sovereign_553*
 
-*PASSWORD:* ************
+>>*PASSWORD:* ************
 
-*Credentials verified. Welcome to Pilot NET!*
+>>*Credentials verified. Welcome to Pilot NET!*
 
---------- [ BLACKLIGHT DIRECT MERCENARY COMPANY ] ---------
+>>--------- [ BLACKLIGHT DIRECT MERCENARY COMPANY ] ---------
 
-| (( PILOT NET )) |
+>>| (( PILOT NET )) |
 
-|---------------------------------------------------|
+>>|---------------------------------------------------|
 
   
 
