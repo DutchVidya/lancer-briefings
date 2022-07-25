@@ -41,20 +41,26 @@
 
 # Pilot Dossier
 
-- Born and raised on a Union Agri World
+- Born and raised on a Union Agri World into a modest family of farmers
 
-- Worked for **Blacklight** most of her Life
+- Worked for Blacklight most of her Life, joined up when she turned 18 to get away from the stale life of a Farmers daughter
 
 - Started as a Dispatch/Coms officer but soon came dissatisfied and upset with her work as she sent her soldiers what could often be their last mission
 
-- Wanting to do more then just send her fellow Blacklight operatives to their death, Lucy trained and worked as a omnihook operator embedded into a Blacklight Mechanised Infantry Division. Gaining the nickname  **"Dispatch"** due to her cool cat demeanour and smooth radio voice even in the most stressful situations
+- Wanting to do more then just send her fellow **BLACKLIGHT** operatives to their death, Lucy trained and worked as a omnihook operator imbedded into a Blacklight Mechanised Infantry Division. Gaining the nickname of **DISPATCH** due to her cool cat demeanour and smooth radio voice even in the most stressful situations
 
-- After years of service with the Lucy became desensitised to the war effort, the only thing that mattered was making sure all the boys and girls of her unit made it back and she used every available asset and method to see that through.
+- After years of service on Tyrno Lucy became desensitised to the war effort, the only thing that mattered was making sure all the men and women of her unit made it back at the end of the day and she used every available asset and method to see it through
 
-- Applied to the Blacklight pilot program in 50XXU to see her mission through bring everyone back alive
+- Applied to the Blacklight pilot program in 50XXU to see her mission through and bring everyone back alive
 
   
 
 # Pilot Appearance
 
-- 26 Year old Female human with added Cat ears and Fox tail, Well Dressed and commonly wears her old Infantry Uniform.
+- 26 Year old Female human with cosmetically added fox ears and tail.
+
+- Her eye and hair colour can change with the activation of her imbedded info skin, a leftover from her young rebellious phase  
+
+- Commonly wears her old Infantry Uniform kept to parade standard when outside of her hardsuit
+
+- Her hardsuit is beaten and battered from her tour on **TYRNO**, but at a closer look each mechanical component is well oiled and greased, every datapoint updated with the latest firmware and every cracked plate replaced
