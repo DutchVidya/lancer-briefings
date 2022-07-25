@@ -137,7 +137,7 @@ export default {
         {
           "callsign": "Magpie",
           "alias": "Alexandria Rowland",
-          "code": "Played by: Alex",
+          "code": "Player: Alex",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "TBA"
