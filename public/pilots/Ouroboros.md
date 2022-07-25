@@ -22,12 +22,12 @@
 
 >  **<TLF|GR13F3R>** Found the source, I'm going for it.
 
->  _Bursts of digital interference can be heard, followed by the dull crump of an explosion_>
+>  _Bursts of digital interference can be heard, followed by the dull crump of an explosion_
 
 >  _**<**_**TLF|BigCheese**_**>**_ Griefer's gone - He just cooked off or something!_
 
 >  <**TLF**|**Sabretooth>** Screw this, I'm withdrawing. I don't wanna get roasted like that!
 
-**Ouroboros** is a self proclaimed "Seer of the Convolutions of the Metat Aun". This obscure sect of Aunic belief believes that whilst Os may communicate with Metat Aun, only those who have delved within the forbidden foldings of reality itself can truly understand the whims of the deity, and that Metat Aun will comminicate its wants directly to those who have glimpsed the inner workings of reality.  
+**OUROBOROS** is a self proclaimed "Seer of the Convolutions of the Metat Aun". This obscure sect of Aunic belief believes that whilst Os may communicate with Metat Aun, only those who have delved within the forbidden foldings of reality itself can truly understand the whims of the deity, and that Metat Aun will comminicate its wants directly to those who have glimpsed the inner workings of reality.  
   
-Despite her appearance as some sort of priest or herald, Ouroboros has no real religious authority, and is in fact a skilled hacker, and a capable technical fighter. Exiled by the Ascendency, along with the rest of her sect for the heretical beliefs, she travelled into the Diaspora, seeking to spread the messages of Metat Aun. There was not much loce for this in Union space, and so Ouroboros eventually turned to her technical skills to earn a living, coming into Blacklight's employ some time during the TYRNIAN CIVIL WAR, her skillset was quickly put to use sabotaging TLF systems and equipment. Whilst her methods are known to be unorthodox, Blacklight is no stranger to unusual methods, and gladly make use of her services, for now at least.
+Despite her appearance as some sort of priest or herald, Ouroboros has no real religious authority, and is in fact a skilled hacker, and a capable technical fighter. Exiled by the Ascendency, along with the rest of her sect for the heretical beliefs, she travelled into the Diaspora, seeking to spread the messages of Metat Aun. There was not much love for this in Union space, and so **OUROBOROS** eventually turned to her technical skills to earn a living, coming into Blacklight's employ some time during the **TYRNIAN CIVIL WAR**, her skillset was quickly put to use sabotaging TLF systems and equipment. Whilst her methods are known to be unorthodox, Blacklight is no stranger to unusual methods, and gladly make use of her services, for now at least.
