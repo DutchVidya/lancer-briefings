@@ -20,7 +20,7 @@
 
 >>>>>>*Credentials verified. Welcome to Pilot NET!*
 
->>>>>>--------- [ BLACKLIGHT DIRECT MERCENARY COMPANY ] ---------
+>>>>--------- [ BLACKLIGHT DIRECT MERCENARY COMPANY ] ---------
 
 >>>>>>| (( PILOT NET )) |
 
