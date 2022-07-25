@@ -15,8 +15,8 @@
 ## RECOVERED TLF PILOTS COMMS LOG
 
 > **<TLF|Sabretooth**_**>**_ God damnit this bullshit again_  
-> **<**_**TLF|BigCheese**_**>**_ You getting it too? All this BS about folds?_  
-> **<**_**TLF**_**|**_**Sabretooth>** Yeah it's just flooding my syslog constantly. It's on every channel as well  
+> **<**_**TLF|BigCheese**_**>** You getting it too? All this BS about folds?_  
+> **<**TLF**_**|**_**Sabretooth>** Yeah it's just flooding my syslog constantly. It's on every channel as well  
 > **<TLF|GR13F3R>** Found the source, I'm going for it.
 > 
 > _Bursts of digital interference can be heard, followed by the dull crump of an explosion_
