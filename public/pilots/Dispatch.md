@@ -14,7 +14,7 @@
 
 >>>>*Connected to Pilot NET. Please enter BDMC LC-CRED*
 
->>>>*USERNAME: Sovereign_553*
+>>>>*USERNAME: FoxTrot224*
 
 >>>>*PASSWORD:* ************
 
