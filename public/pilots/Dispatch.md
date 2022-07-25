@@ -1,5 +1,50 @@
 ## Lucy Beltayn // "Dispatch"
 
+
+COMPANION/CONCIERGE  UNIT  INITIALIZING  
+GMS  COMP/CON  Unit  Mk  XI  Rev  11.4.1c  
+5017.3.12  General  Massive  Systems  //  Please  Operate  Responsibly  
+Blacklight (R)  BDOS  (R)  8.0  (Build  113409)  
+Connecting  to  Pilot  NET  .  .  .  
+Connected  to  Pilot  NET.  Please  enter  BDMC LC-CRED  
+USERNAME:  Sovereign_553  
+PASSWORD:  ************  
+Credentials  verified.  Welcome  to  Pilot  NET! 
+
+___           _,.---,---.,_
+            |         ,;~'             '~;,
+            |       ,;                     ;,
+   Frontal  |      ;                         ; ,--- Supraorbital Foramen
+    Bone    |     ,'                         /'
+            |    ,;                        /' ;,
+            |    ; ;      .           . <-'  ; |
+            |__  | ;   ______       ______   ;<----- Coronal Suture
+           ___   |  '/~"     ~" . "~     "~\'  |
+           |     |  ~  ,-~~~^~, | ,~^~~~-,  ~  |
+ Maxilla,  |      |   |        }:{        | <------ Orbit
+Nasal and  |      |   l       / | \       !   |
+Zygomatic  |      .~  (__,.--" .^. "--.,__)  ~.
+  Bones    |      |    ----;' / | \ `;-<--------- Infraorbital Foramen
+           |__     \__.       \/^\/       .__/
+              ___   V| \                 / |V <--- Mastoid Process
+              |      | |T~\___!___!___/~T| |
+              |      | |`IIII_I_I_I_IIII'| |
+     Mandible |      |  \,III I I I III,/  |
+              |       \   `~~~~~~~~~~'    /
+              |         \   .       . <-x---- Mental Foramen
+              |__         \.    ^    ./
+                            ^~~~^~~~^
+--------- [ BLACKLIGHT DIRECT MERCENARY COMPANY ] ---------
+|                ((   PILOT NET   ))                |
+|---------------------------------------------------|
+
+>>WHAT  WOULD  XIAOLI  DO?  
+  
+AVAILABLE  MISSIONS:  **08**    |  AVAILABLE  BOUNTIES:  **27**  
+PENDING  PAYMENTS:  MN$**249**  |  INBOX:  **692**  UNREAD  MSG  
+-------------------------------------  
+>//[COMP/CON:  Welcome,  Lancer.  Input  Command.]
+
 # Pilot Dossier
 - Born and raised on a Union Agri World
 - Worked for Blacklight most of her Life
