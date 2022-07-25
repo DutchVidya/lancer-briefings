@@ -3,14 +3,23 @@
   
 
 *COMPANION/CONCIERGE UNIT INITIALIZING*
+
 *GMS COMP/CON Unit Mk XI Rev 11.4.1c*
+
 *5017.3.12 General Massive Systems // Please Operate Responsibly*
+
 *Blacklight (R) BDOS (R) 8.0 (Build 113409)*
+
 *Connecting to Pilot NET . . .*
+
 *Connected to Pilot NET. Please enter BDMC LC-CRED*
+
 *USERNAME: Sovereign_553*
+
 *PASSWORD:* ************
+
 *Credentials verified. Welcome to Pilot NET!*
+
 --------- [ BLACKLIGHT DIRECT MERCENARY COMPANY ] ---------
 
 | (( PILOT NET )) |
