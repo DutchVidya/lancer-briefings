@@ -24,15 +24,15 @@
 
 >>>>>>| (( PILOT NET )) |
 
->>>>>>|---------------------------------------------------|
+>>>>>|---------------------------------------------------|
 
   
 
 >>>>>>DEEDS IN THE DARK
 
->>>>>>DAYS SINCE CONTRACT START: **1826.25** | DAYS UNTIL CONTRACT END: **182.5**
+>>>>>DAYS SINCE CONTRACT START: **1826.25** | DAYS UNTIL CONTRACT END: **182.5**
 
->>>>>>PENDING PAYMENTS: MN$**249** | INBOX: **692** UNREAD MSG
+>>>>>PENDING PAYMENTS: MN$**249** | INBOX: **692** UNREAD MSG
 
 >>>>>>-------------------------------------
 
