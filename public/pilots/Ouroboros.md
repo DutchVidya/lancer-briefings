@@ -1,16 +1,17 @@
 ## Nadija Kaemmerer-Abbas // "Ouroboros"
 
-    folds = float('inf')  
-      
-    tenet1 = 'we gaze between the folds of reality'  
-    tenet2 = 'between the folds we see the bonds'  
-    tenet3 = 'between the bonds there is the will of metat aun'  
-      
-    print 'Metat Aun makes us curious, so %s \nWith this knowledge we see %s \Finally %s and our curiosity is no more, for there is only certainty' % [tenet1,tenet2,tenet3]  
-    print 'We are forever in a cycle of folding. Folds within folds within folds within folds. Through folds it speaks unto us.`
     
-    whilst folds > 0:  
-    print 'folds within folds'
+*folds = float('inf')  
+  
+tenet1 = 'we gaze between the folds of reality'  
+tenet2 = 'between the folds we see the bonds'  
+tenet3 = 'between the bonds there is the will of metat aun'  
+  
+print 'Metat Aun makes us curious, so %s \nWith this knowledge we see %s \Finally %s and our curiosity is no more, for there is only certainty' % [tenet1,tenet2,tenet3]  
+print 'We are forever in a cycle of folding. Folds within folds within folds within folds. Through folds it speaks unto us.`
+
+whilst folds > 0:  
+print 'folds within folds'*
 
 ## RECOVERED TLF PILOTS COMMS LOG
 
