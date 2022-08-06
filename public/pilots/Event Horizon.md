@@ -1,25 +1,22 @@
 ## Dalt Stirad // "Event Horizon"
 
-*Wee, sleekit, cow’rin, tim’rous beastie,*
 
-*O, what a panic’s in thy breastie!*
+*Remorse is memory awake,*	
+*Her companies astir,—*	
+*A presence of departed acts*	
+*At window and at door.*	
+  
+*Its past set down before the soul,*	        5
+*And lighted with a match,*	
+*Perusal to facilitate*	
+*Of its condensed despatch.*	
+  
+*Remorse is cureless,—the disease*	
+*Not even God can heal;*
+*For ’t is His institution,—*	
+*The complement of hell.*
 
-*Thou need na start awa sae hasty,*
-
-*Wi’ bickering brattle!*
-
-*I wad be laith to rin an’ chase thee,*
-
-*Wi’ murd’ring pattle!*  
-
-*I’m truly sorry man’s dominion,*
-*Has broken nature’s social union,*
-*An’ justifies that ill opinion,*
-*Which makes thee startle*
-*At me, thy poor, earth-born companion,*
-*An’ fellow-mortal!*
-
->> - "To a Mouse" by Robert Burns
+>> - "Remorse is memory awake" by Emily Dickinson
 
 ## BLACKLIGHT INTERNAL CONTRACTOR FILE | ACCESS BY NON-AUTHORISED PERSONNEL CAN LEAD TO DISMISSAL
 
