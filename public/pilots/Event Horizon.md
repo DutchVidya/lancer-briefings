@@ -1,22 +1,9 @@
 ## Dalt Stirad // "Event Horizon"
 
 
-*Remorse is memory awake,*	
-*Her companies astir,—*	
-*A presence of departed acts*	
-*At window and at door.*	
-  
-*Its past set down before the soul,*
-*And lighted with a match,*	
-*Perusal to facilitate*	
-*Of its condensed despatch.*	
-  
-*Remorse is cureless,—the disease*	
-*Not even God can heal;*
-*For ’t is His institution,—*	
-*The complement of hell.*
+*'Cause I walk through the valley of the shadow of death*<br>*And I fear no evil because I'm blind*<br>*Oh, and I walk beside the still waters and they restore my soul*<br>*But I know when I die my soul is damned*
 
->> - "Remorse is memory awake" by Emily Dickinson
+>> - "Through the Valley" by Shawn James
 
 ## BLACKLIGHT INTERNAL CONTRACTOR FILE | ACCESS BY NON-AUTHORISED PERSONNEL CAN LEAD TO DISMISSAL
 
