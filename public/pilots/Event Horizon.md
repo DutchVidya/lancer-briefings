@@ -6,7 +6,7 @@
 *A presence of departed acts*	
 *At window and at door.*	
   
-*Its past set down before the soul,*	        5
+*Its past set down before the soul,*
 *And lighted with a match,*	
 *Perusal to facilitate*	
 *Of its condensed despatch.*	
