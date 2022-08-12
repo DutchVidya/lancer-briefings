@@ -142,6 +142,14 @@ export default {
           "frame": "Everest",
           "mech": "TBA"
         },
+        {
+          "callsign": "TBA",
+          "alias": "TBA",
+          "code": "Player: Disco",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "TBA"
+        },
       ],
       "header": {
         "planet": "Tyrno",
