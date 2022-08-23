@@ -143,8 +143,8 @@ export default {
           "mech": "TBA"
         },
         {
-          "callsign": "TBA",
-          "alias": "TBA",
+          "callsign": "Exile",
+          "alias": "Suldred Khayradi IV",
           "code": "Player: Disco",
           "corpro": "GMS",
           "frame": "Everest",
