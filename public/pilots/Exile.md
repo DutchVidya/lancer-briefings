@@ -27,6 +27,6 @@ An impulsive problem-solver, Khayradi has exhibited ingenious tactical insight i
  
 With a return to the Baronies likely impossible, we expect Khayradi is looking to restore his name with battlefield heroics – or to make enough commission to buy his way back into the ranks of Karrakin nobility. Expect “EXILE” to take on increased risks for fame or valour, and to flaunt his combat ability whenever he is able.  
  
-*I don’t need to tell you how confidential this is – you owe me for pulling this. *
+*I don’t need to tell you how confidential this is – you owe me for pulling this.*
  
 *\\ MESSAGE ENDS*
