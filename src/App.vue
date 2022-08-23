@@ -140,7 +140,7 @@ export default {
           "code": "Player: Alex",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "TBA"
+          "mech": "Magpie"
         },
         {
           "callsign": "Exile",
