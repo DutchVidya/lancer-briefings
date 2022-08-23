@@ -3,11 +3,12 @@
 *\\ Pilot NET v.89.7 \\ Remote SIM Access \\ Access User: 8767-YB \\ INBOX: 221*
  
 *\\ recipient: Yul Brunoss*
+
 *\\ sender: [ACCESS ERROR]*
  
-This is the profile-spec you asked for on **KHAYRADI**. It better be the last one you need – if I keep accessing BLD personnel files like this, it’s going to get noticed sooner or later.
+*This is the profile-spec you asked for on **KHAYRADI**. It better be the last one you need – if I keep accessing BLD personnel files like this, it’s going to get noticed sooner or later.
  
-P.S - I actually met this guy once, during his onboarding. He’s a real livewire, he’ll try to con the flexsuit off your back if you give him half a chance.  
+P.S - I actually met this guy once, during his onboarding. He’s a real livewire, he’ll try to con the flexsuit off your back if you give him half a chance. * 
  
  
 ## BLACKLIGHT INTERNAL CONTRACTOR FILE | ACCESS BY NON-AUTHORISED PERSONNEL CAN LEAD TO DISMISSAL 
