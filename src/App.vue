@@ -148,7 +148,7 @@ export default {
           "code": "Player: Disco",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "TBA"
+          "mech": "Runaway Horse"
         },
       ],
       "header": {
